@@ -34,7 +34,7 @@ How to do it?
 5. Готово.
 
 == GitHub ==
-
+https://github.com/hiweb-moscow/hiweb-wc-thumbnail-upload
 
 == Installation ==
 
@@ -46,17 +46,10 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. Dashboard
-2. Export Settings Page
-3. Import from Upload File
-4. Import History
-5. Import Settings
+1.
 
 
 == Changelog ==
 
-= 0.9.0.0 =
-Add locations, fix wrong urls...
-
-= 0.8.0.0 - alpha =
+= 1.0.0.0 =
 Just start develop this AWESOME plugin ))
