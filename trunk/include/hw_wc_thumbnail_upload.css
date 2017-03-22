@@ -1,0 +1,29 @@
+.wp-list-table td.thumb {
+  position: relative; }
+  .wp-list-table td.thumb .thumb_hw_upload_zone {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    text-align: center;
+    opacity: 0;
+    -moz-opacity: 0;
+    background: rgba(0, 0, 0, 0.3) url(../images/icon-upload.png) 50% 50% no-repeat;
+    background-size: contain;
+    border: 2px dotted #000;
+    transition: opacity 0.2s ease; }
+    .wp-list-table td.thumb .thumb_hw_upload_zone:hover {
+      opacity: 1;
+      -moz-opacity: 1; }
+    .wp-list-table td.thumb .thumb_hw_upload_zone.dragenter {
+      opacity: 1;
+      -moz-opacity: 1; }
+    .wp-list-table td.thumb .thumb_hw_upload_zone.upload-process {
+      opacity: 1;
+      -moz-opacity: 1;
+      background-image: url(../images/loader.gif);
+      background-size: contain; }
+
+/*# sourceMappingURL=hw_wc_thumbnail_upload.css.map */
