@@ -14,6 +14,7 @@ Upload pictures of products and categories directly in the list of goods and cat
 
 [youtube http://www.youtube.com/watch?v=xsMm6ATJf0Y]
 
+
 = English =
 If you are using a great WooCommerce plugin for your web store and you need to upload an image of a large variety of products - this plugin is for you!
 How to do it?
@@ -31,6 +32,9 @@ How to do it?
 3. В область, где должна быть миниатюра, перетащите файл изображения (область, куда нужно скинуть файл в нужный момент будет подсвечена).
 4. Дождитесь загрузки изображения.
 5. Готово.
+
+== GitHub ==
+
 
 == Installation ==
 
