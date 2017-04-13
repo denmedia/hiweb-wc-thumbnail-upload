@@ -1,12 +1,0 @@
-Adobe After Effects v14.0.1 Windows 64 render log for project “upload-icon-ani.aep”
-
-Rendering started on 22.03.2017 at 13:15:34
-
-  22.03.2017 13:15:34: Starting composition “icon-upload”.
-
-  Output To: D:\temp\icon-upload\icon-upload_[#####].png    22.03.2017 13:15:34: Finished composition “icon-upload”.
-
-
-  Total Time Elapsed: 0 Seconds
-Log closed on 22.03.2017 at 13:15:34
-
