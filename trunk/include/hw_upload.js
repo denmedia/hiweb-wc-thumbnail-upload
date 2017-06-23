@@ -15,6 +15,9 @@ jQuery(document).ready(function ($) {
         }
 
         var thumb_hw_upload_zone_id = 'thumb-' + post_id;
+        ///
+        if($('#'+thumb_hw_upload_zone_id).length === 0){ return;}
+        ///
         var drop_zone = $('<div class="thumb_hw_upload_zone" id="' + thumb_hw_upload_zone_id + '"></div>');
         tr.find('.thumb').append(drop_zone);
         new hw_upload_zone("#" + thumb_hw_upload_zone_id, {
